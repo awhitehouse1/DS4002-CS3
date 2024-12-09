@@ -1,4 +1,5 @@
 # DS4002-CS3
+Brain Tumor Detection case study by Ashley Whitehouse
 ## Repository Contents
 - Data folder: contains the MRI brain scan dataset that you will need for the case study. The dataset must be unzipped before you can use it.
 - Materials folder: contains all materials for this case study, including articles and code
