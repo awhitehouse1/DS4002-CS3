@@ -8,3 +8,10 @@ Brain Tumor Detection case study by Ashley Whitehouse
   - Brain_Tumors_and_Cancer_JohnsHopkins.pdf: this article gives an overview of brain tumor complications and how they can be diagnosed
 - CS3Hook.pdf: contains the PDF of the hook document for this case study
 - CS3Rubric.pdf: contains the PDF of the rubric for this case study
+
+## References
+[1] American Brain Tumor Association. “Brain Tumor FAQs - Learn More or Donate Today! | ABTA.” American Brain Tumor Association, https://www.abta.org/about-brain-tumors/brain-tumor-education. Accessed 8 December 2024.
+
+[2] Johns Hopkins Medicine. “Brain Tumors and Brain Cancer.” Johns Hopkins Medicine, https://www.hopkinsmedicine.org/health/conditions-and-diseases/brain-tumor#diagnosis. Accessed 8 December 2024.
+
+[3] Yamashita, R., Nishio, M., Do, R.K.G. et al. Convolutional neural networks: an overview and application in radiology. Insights Imaging 9, 611–629 (2018). https://doi.org/10.1007/s13244-018-0639-9
